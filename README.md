@@ -43,5 +43,4 @@ A modern, responsive, and performance-optimized personal portfolio website showc
 ## 📸 Preview
 
 👉 **Live Demo:**  
-🔗 _Add your GitHub Pages link here_  
-Example:
+🔗 https://prathip2826.github.io/prathip-portfolio/
